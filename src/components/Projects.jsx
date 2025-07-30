@@ -1,4 +1,5 @@
 import React from 'react';
+import devoraLogo from '../assets/kodd.png';
 
 function Projects() {
   return (

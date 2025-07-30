@@ -1,5 +1,5 @@
 import React from 'react';
-
+import devoraLogo from '../assets/logo.png';
 function About() {
   return (
     <section id="hakkimizda" className="content-section">
