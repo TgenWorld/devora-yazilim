@@ -6,7 +6,7 @@ function About() {
       <div className="container">
         <h2>Hakkımızda</h2>
         <div className="about-content">
-          <img src="/src/assets/logo.png" alt="Devora Yazılım Ekibi Logosu" className="about-image" />
+          <img src={devoraLogo} alt="Devora Yazılım Ekibi Logosu" className="about-image" />
           <div className="about-text">
             <h3>Biz Kimiz?</h3>
             <p>Devora Yazılım, 2025 yılında teknolojiye tutkulu iki genç girişimci tarafından kurulmuştur. Amacımız, en son teknolojileri kullanarak müşterilerimizin dijital dönüşüm süreçlerine liderlik etmek ve onlara rekabet avantajı sağlayacak özel yazılımlar sunmaktır. Sağlam teknik altyapıyı, yaratıcı ve yenilikçi bir vizyonla birleştiriyoruz.</p>
